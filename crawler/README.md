@@ -21,7 +21,7 @@ pip install -r requirements.txt
 cp .env.example .env
 vim .env
 ```
-You can choose any `PTT board` whatever you want. `PAGE_NUMBER` is max page you need. 
+You can choose any `PTT board` whatever you want. `PAGE_NUMBER` is max page. 
 * Set the `IF_SEARCH = true`, if you want to search specific topic (keyword). 
 For example:
 ```
